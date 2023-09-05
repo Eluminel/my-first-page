@@ -4,4 +4,4 @@
 3. I am an **engineer**
 
 ### My favorite place is Fushimi Inari Shrine:
-![My favorite place](img/1.JPG)
+![My favorite place](img/1.jpg)
